@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PT-BR: Projeto feito para aprimorar minhas habilidades de manipulação de componentes em React. O projeto em questão consiste em armazenar informações (nome, email e comentário) em diferentes componentes. Para isso, houve criação de Hooks para o auxílio.
 
-Currently, two official plugins are available:
+EN: Project made to improve my component manipulation skills in React. The project in question consists of storing information (name, email and comment) in different components. To achieve this, Hooks were created to help.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Link: https://thegvictor.github.io/multstep_form/
